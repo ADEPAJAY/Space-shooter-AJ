@@ -46,10 +46,8 @@ This is a desktop-based game made for both casual play and learning how Python g
 
 ### 1. 📦 Install Required Module  
 Make sure Python and Pygame are installed:
-```bash
-pip install pygame
-
-
+DO:
+pip install pygame 
 
 ## 📬 Connect With Me
 📧 Email: adepajay03@gmail.com
